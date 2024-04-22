@@ -1,8 +1,8 @@
 {
-    "app_id": "triggers-nytwtnz",
+    "app_id": "data-shaktdt",
     "config_version": 20210101,
-    "name": "Triggers",
-    "provider_region": "aws-us-east-1",
-    "deployment_model": "GLOBAL",
-    "environment": "testing"
+    "name": "data",
+    "provider_region": "aws-eu-central-1",
+    "deployment_model": "LOCAL",
+    "environment": "production"
 }
